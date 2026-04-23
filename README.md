@@ -17,7 +17,7 @@ A robust, localized Data Engineering pipeline built with Python and SQL. This pr
 I built this project to demonstrate fundamental backend and data engineering principles. It showcases practical experience with data normalization, relational database structures, and handling "messy" real-world data gracefully using Python.
 
 ## ⚙️ How to Run Locally
-1. Clone the repository: `git clone https://github.com/YOUR_USERNAME/fitness-data-etl-pipeline.git`
+1. Clone the repository: `git clone https://github.com/AnshumanRathore/KOLAF-fitness-data-etl-pipeline.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Create a MySQL database named (according to you)`fitness_analytics`.
 4. Update the DB credentials in `etl_pipeline.py`.
