@@ -1,0 +1,11 @@
+user_id,activity,duration_minutes,distance_km,date
+101,Running,45.0,5.2,2026-04-23
+102, Calisthenics ,60.0,0.0,2026-04-22
+103,running,-15.0,3.1,2026-04-21
+104,Cycling,120.0,20.5,2026-04-20
+105,Running,30.0,4.0,2026-04-19
+106,CALISTHENICS,45.0,0.0,2026-04-18
+107,Running,,8.5,2026-04-17
+108,,50.0,0.0,2026-04-16
+109,Calisthenics,-10.0,0.0,2026-04-15
+110,Running,25.0,2.5,2026-04-14
